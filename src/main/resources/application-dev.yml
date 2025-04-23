@@ -1,0 +1,7 @@
+app:
+  title: "Profile, Filter, Interceptor - Development Mode"
+  message: "Welcome from Dev Environment 🎯"
+
+logging:
+  level:
+    com.example: DEBUG

@@ -1,0 +1,9 @@
+### 🔁 Test Welcome Message (will vary by active profile)
+GET http://localhost:8080/welcome
+Accept: application/json
+
+###
+
+### 🔍 Test reading 'title' from YAML via AppProperties
+GET http://localhost:8080/title
+Accept: application/json

@@ -1,0 +1,7 @@
+app:
+  title: "Profile, Filter, Interceptor - Production Mode"
+  message: "Welcome from Production Environment 🚀"
+
+logging:
+  level:
+    com.example: WARN

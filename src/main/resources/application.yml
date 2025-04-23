@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: dev # Change this to 'prod' for production
+
+app:
+  title: Student Portal
+  message: Default message if no profile is active
+
+# Optional global config (applies to all profiles)
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
